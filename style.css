@@ -1,0 +1,72 @@
+
+
+body{
+    background-image: url(background.jpg);
+    background-size: 2600px;
+    background-position: top;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    width: 1300px;
+    margin: auto;
+    background-color: rgb(0, 0, 0, 0.4);
+    border-radius: 5%;   
+}
+
+.booking{
+    text-align: center;
+}
+
+.logo{
+    display: block;
+    width: 250px;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.logotext{
+    color: rgb(0, 255, 0); 
+    text-align: center; 
+}
+nav{
+    background-color: rgb(0, 255, 0);
+}
+
+nav,main{
+    margin: auto;
+    padding: 10px;
+    width: 70%;  
+}
+.mono{
+    color: white;
+}
+.mono1{  
+    width: 200px;
+    height: 20px;
+    background-color: rgb(255, 187, 0);
+   
+ 
+}
+.mono2{
+    width: 300px;
+    height: 20px;
+    background-color: rgb(0, 255, 42);
+}
+.mono3{
+    width: 100px;
+    height: 20px;
+    background-color: rgb(255, 0, 0);
+}
+
+#gino{
+   display: inline-block;
+    
+}
+#mike{
+    display: inline-block;
+     
+ }
+ #fede{
+    display: inline-block;
+     
+ }
